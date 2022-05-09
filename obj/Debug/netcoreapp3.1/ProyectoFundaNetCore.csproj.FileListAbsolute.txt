@@ -1,0 +1,14 @@
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.exe
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.deps.json
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.runtimeconfig.json
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.runtimeconfig.dev.json
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.dll
+C:\Users\oem\source\repos\ProyectoFundaNetCore\bin\Debug\netcoreapp3.1\ProyectoFundaNetCore.pdb
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.csproj.AssemblyReference.cache
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.AssemblyInfo.cs
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.dll
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.pdb
+C:\Users\oem\source\repos\ProyectoFundaNetCore\obj\Debug\netcoreapp3.1\ProyectoFundaNetCore.genruntimeconfig.cache
